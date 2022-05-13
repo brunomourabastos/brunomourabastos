@@ -61,10 +61,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos)](https://github.com/brunomourabastos/github-readme-stats)
 
 <a href="https://github.com/brunomourabastos/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunomourabastos&repo=github-readme-stats" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=brunomourabastos&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/brunomourabastos/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomourabastos&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos" />
 </a>
 
 <br>

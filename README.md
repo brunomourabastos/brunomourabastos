@@ -64,7 +64,7 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=brunomourabastos&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/brunomourabastos/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos" />
 </a>
 
 <br>

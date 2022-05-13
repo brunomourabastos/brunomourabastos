@@ -18,7 +18,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Develpment Student, 
+### I am a Software Development Student, 
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Back-End.
 - 👯 I’m looking to collaborate with other Developers :wink:
@@ -68,7 +68,7 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.brunomourabastos.vercel.app/api?username=brunomourabastos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Bruno's Github Stats" width="60%">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomourabastos)](https://github.com/brunomourabastos/github-readme-stats)
   
 <img src="https://github-readme-stats.brunomourabastos.vercel.app/api/top-langs/?username=brunomourabastos&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Bruno's Top Languages">
 

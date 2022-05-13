@@ -1,4 +1,3 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>Hello there, I'm Bruno 👋</b></h1>
 </p>
@@ -25,6 +24,9 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
 
+<br>
+<br>
+<br>
 
 <br>
 
@@ -66,18 +68,18 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.brunomourabastos.vercel.app/api?username=brunomourabastos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Bruno`sGithub Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.brunomourabastos.vercel.app/api?username=brunomourabastos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Bruno's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.sbrunomourabastos.vercel.app/api/top-langs/?username=brunomourabastos&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Bruno's Top Languages">
+<img src="https://github-readme-stats.brunomourabastos.vercel.app/api/top-langs/?username=brunomourabastos&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Bruno's Top Languages">
 
 
 
 <!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomourabastos&show_icons=true&hide_border=true&theme=dark)
+![Bruno's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos&show_icons=true&hide_border=true")-->
 
 <!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
+<a href="https://github.com/brunomourabastos/Readers-Cabin">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
 </a>
 <a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">

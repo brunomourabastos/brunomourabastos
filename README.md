@@ -68,9 +68,9 @@
 
 ### :zap: Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomourabastos)](https://github.com/brunomourabastos/github-readme-stats)
+[![Bruno Bastos' GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomourabastos)](https://github.com/brunomourabastos/github-readme-stats)
   
-<img src="https://github-readme-stats.brunomourabastos.vercel.app/api/top-langs/?username=brunomourabastos&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Bruno's Top Languages">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos)](https://github.com/brunomourabastos/github-readme-stats)
 
 
 

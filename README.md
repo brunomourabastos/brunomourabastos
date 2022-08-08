@@ -68,7 +68,7 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. Recipe App - Project
+1. <a href="https://github.com/brunomourabastos/app-de-receitas">Recipes App </a>
 2. Trivia Game
 3. Star Wars Planet Filters
 <!--END_SECTION:activity-->

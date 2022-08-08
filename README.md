@@ -69,7 +69,7 @@
   
 <!--START_SECTION:activity-->
 1. <a href="https://github.com/brunomourabastos/app-de-receitas">Recipes App </a>
-2. Trivia Game
+2. <a href="https://github.com/brunomourabastos/trivia-game">Trivia Game</a>
 3. Star Wars Planet Filters
 <!--END_SECTION:activity-->
 

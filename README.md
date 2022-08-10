@@ -58,9 +58,9 @@
 
 ### :zap: Github Stats
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomourabastos&show_icons=true&theme=highcontrast)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomourabastos&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos&layout=compact&theme=highcontrast)](https://github.com/brunomourabastos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos&layout=compact&theme=cobalt)](https://github.com/brunomourabastos/github-readme-stats)
 
 <br>
 

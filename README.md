@@ -60,7 +60,7 @@
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomourabastos&show_icons=true&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos&layout=compact&theme=nord)](https://github.com/brunomourabastos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos&layout=compact&theme=nord&card_width=10)](https://github.com/brunomourabastos/github-readme-stats)
 
 <br>
 

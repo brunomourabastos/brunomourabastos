@@ -72,12 +72,12 @@
   
 <!--START_SECTION:activity-->
 Front-End
-1. <a href="https://github.com/brunomourabastos/app-de-receitas">Recipes App </a>
+1. <a href="https://github.com/brunomourabastos/app-de-receitas">Recipes App</a>
 2. <a href="https://github.com/brunomourabastos/trivia-game">Trivia Game</a>
-3. Star Wars Planet Filters
 
 Back-End:
-1. <a href="https://github.com/brunomourabastos/store-manager">Store Manager </a>
+1. <a href="https://github.com/brunomourabastos/store-manager">Store Manager</a>
+2. <a href="https://github.com/brunomourabastos/medieval-store">Medieval Store</a>
 <!--END_SECTION:activity-->
 
 <br>

@@ -58,12 +58,9 @@
 
 ### :zap: Github Stats
 
-<div>
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomourabastos&show_icons=true&theme=radical)
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomourabastos&show_icons=true&theme=radical)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos&layout=compact)](https://github.com/brunomourabastos/github-readme-stats)
-
-</div>
 
 <br>
 

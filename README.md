@@ -75,13 +75,3 @@
 
 <br>
 
-<br>
-
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-<!--[website]: -->
-<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/brunombastos
-[linkedin]: https://www.linkedin.com/in/bruno-monteiro-bastos/

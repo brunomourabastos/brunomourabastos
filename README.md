@@ -20,7 +20,7 @@
 
 ### I am a Software Development Student, 
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Back-End.
+- 🌱 I’m currently learning Computer Science.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🏖️ I love discovering new places. Its a great opportunity to meet new people. :smile:

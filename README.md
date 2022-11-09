@@ -34,9 +34,11 @@
 ### Languages and Tools: 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,css,html,js,jest,react,redux,bootstrap,docker,ts,py,java,php,laravel,mysql,mongodb,nodejs" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,css,html,js,jest,react,redux,bootstrap,docker,ts,py,java" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,nodejs" />
   </a>
 </p>
+
 
 <br>
 <br>

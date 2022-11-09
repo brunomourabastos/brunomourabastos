@@ -78,7 +78,7 @@ Back-End:
 
 Full-Stack:
 1. <a href="https://github.com/brunomourabastos/Project-TFC">TFC</a>
-2. 
+2. <a href="https://github.com/brunomourabastos/deliveryApp">Delivery App</a>
 <!--END_SECTION:activity-->
 
 <br>

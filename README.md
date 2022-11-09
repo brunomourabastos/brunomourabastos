@@ -18,12 +18,12 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<h3>I am a Software Development Student,</h3> 
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Computer Science.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 💬 Ask me about anything, I am happy to help :smile:
-- 🏖️ I love discovering new places. Its a great opportunity to meet new people. :smile:
+<h3>I am a Software Development Student,</h3><br />
+- 🔭 I’m currently working on my Portfolio Website :grin:<br />
+- 🌱 I’m currently learning Computer Science.<br />
+- 👯 I’m looking to collaborate with other Developers :wink:<br />
+- 💬 Ask me about anything, I am happy to help :smile:<br />
+- 🏖️ I love discovering new places. Its a great opportunity to meet new people. :smile:<br />
 
 <br>
 <br>

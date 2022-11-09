@@ -30,8 +30,9 @@
 <br>
 
 <br>
-
+<p align="center">
 ### Languages and Tools: 
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,css,html,js,jest,react,redux,bootstrap,docker,ts,py" />

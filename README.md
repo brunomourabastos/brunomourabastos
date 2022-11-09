@@ -52,6 +52,8 @@
 
 <br>
 <hr>
+<br>
+
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->

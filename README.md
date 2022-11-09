@@ -42,6 +42,8 @@
 </p>
 
 <hr>
+<br>
+
 ### :zap: Github Stats
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomourabastos&show_icons=true&theme=nord&)

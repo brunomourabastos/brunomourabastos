@@ -31,7 +31,7 @@
 
 <br>
 <p align="center">
-  <h3><strong>Languages and Tools:</strong></h3> 
+  <h3 align="center"><strong>Languages and Tools:</strong></h3> 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">

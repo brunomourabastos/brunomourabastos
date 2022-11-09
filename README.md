@@ -76,5 +76,10 @@ Back-End:
 2. <a href="https://github.com/brunomourabastos/medieval-store">Medieval Store</a>
 <!--END_SECTION:activity-->
 
+Full-Stack:
+1. <a href="[https://github.com/brunomourabastos/store-manager](https://github.com/brunomourabastos/Project-TFC)">TFC</a>
+2. 
+<!--END_SECTION:activity-->
+
 <br>
 

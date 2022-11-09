@@ -44,9 +44,6 @@
 <hr>
 <br>
 <br>
-<br>
-<br>
-
 
 ### :zap: Github Stats
 

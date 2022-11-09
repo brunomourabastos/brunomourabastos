@@ -43,7 +43,6 @@
 
 <hr>
 <br>
-<br>
 
 ### :zap: Github Stats
 
@@ -52,7 +51,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourabastos&layout=compact&theme=nord)](https://github.com/brunomourabastos/github-readme-stats)
 
 <br>
-
+<hr>
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->

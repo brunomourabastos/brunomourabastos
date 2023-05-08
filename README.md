@@ -19,7 +19,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h3>I am a Software Developer and:</h3><br>
-- 🔭 I’m currently working on my Portfolio Website :grin:<br />
+- 🔭 I’m currently working as a Mobile Developer at <a href="https://www.cognyhub.com/">Cogny</a> :grin:<br />
 - 🌱 I’m currently learning React Native.<br />
 - 👯 I’m looking to collaborate with other Developers :wink:<br />
 - 💬 Ask me about anything, I am happy to help :smile:<br />

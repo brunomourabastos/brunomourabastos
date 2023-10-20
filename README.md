@@ -20,7 +20,7 @@
 
 <h3>I am a Software Developer and:</h3><br>
 - 🔭 I’m currently working as a Mobile Developer at <a href="https://www.cogny.co/">Cogny</a> :grin:<br />
-- 🌱 I’m currently learning React Native.<br />
+- 🌱 I’m currently working with React Native.<br />
 - 👯 I’m looking to collaborate with other Developers :wink:<br />
 - 💬 Ask me about anything, I am happy to help :smile:<br />
 - 🏖️ I love discovering new places. Its a great opportunity to meet new people. :smile:<br />
